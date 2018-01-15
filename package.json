@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-todo-api",
+  "version": "1.0.0",
+  "description": "REST api for todo application in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjoshkumar/nodejs-todo-api.git"
+  },
+  "keywords": [
+    "todo",
+    "node",
+    "app",
+    "REST"
+  ],
+  "author": "Josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjoshkumar/nodejs-todo-api/issues"
+  },
+  "homepage": "https://github.com/pjoshkumar/nodejs-todo-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
